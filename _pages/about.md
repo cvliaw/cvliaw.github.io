@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 Hi! I am a PhD student at the [Department of Computer Science](https://www.cs.ubc.ca/) at [UBC](https://www.ubc.ca/). I am very fortunate to be advised by [Nick Harvey](https://www.cs.ubc.ca/~nickhar/). I am broadly interested in randomized algorithms, machine learning theory, and mechanism design.
+
+Selected Publications
+======
+* [Nearly-tight sample complexity bounds for learning mixtures of Gaussians via compression schemes](https://arxiv.org/abs/1710.05209), **best paper at NeurIPS 2018**
+(with [Hassan Ashtiani](https://www.cas.mcmaster.ca/ashtiani/), [Shai Ben-David](https://cs.uwaterloo.ca/~shai/), [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/))
