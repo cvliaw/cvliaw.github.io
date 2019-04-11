@@ -12,7 +12,7 @@ Hi! I am a PhD student at the [Department of Computer Science](https://www.cs.ub
 
 Selected Publications
 ------
-* [Nearly-tight sample complexity bounds for learning mixtures of Gaussians via compression schemes](https://arxiv.org/abs/1710.05209), **best paper at NeurIPS 2018**\
+* [Nearly-tight sample complexity bounds for learning mixtures of Gaussians via compression schemes](https://arxiv.org/abs/1710.05209), **best paper at NeurIPS 2018**<br>
 (with [Hassan Ashtiani](https://www.cas.mcmaster.ca/ashtiani/), [Shai Ben-David](https://cs.uwaterloo.ca/~shai/), [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/))
 * [The value of information concealment](https://arxiv.org/abs/1707.05875), SODA 2018 \
 (with [Hu Fu](http://www.fuhuthu.com/), [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/), [Zhihao Tang](https://i.cs.hku.hk/~zhtang/))
