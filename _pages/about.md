@@ -13,7 +13,6 @@ Hi! I am a PhD student at the [Department of Computer Science](https://www.cs.ub
 Selected Publications
 ======
 * [Nearly-tight sample complexity bounds for learning mixtures of Gaussians via compression schemes](https://arxiv.org/abs/1710.05209), **best paper at NeurIPS 2018**
-(with [Hassan Ashtiani](https://www.cas.mcmaster.ca/ashtiani/), [Shai Ben-David](https://cs.uwaterloo.ca/~shai/), [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/))
+.(with [Hassan Ashtiani](https://www.cas.mcmaster.ca/ashtiani/), [Shai Ben-David](https://cs.uwaterloo.ca/~shai/), [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/))
 * [A simple tool for bounding the deviation of random matrices on geometric sets](https://arxiv.org/abs/1603.00897), in Geometric Aspects of Functional Analysis
-
-(with [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/), and [Roman Vershynin](https://www.math.uci.edu/~rvershyn/))
+.(with [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/), and [Roman Vershynin](https://www.math.uci.edu/~rvershyn/))
