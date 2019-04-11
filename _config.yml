@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chris Liaw"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at UBC CS"
+  bio              : "PhD Student at UBC CS <br> Email: cvliaw@cs.ubc.ca"
   location         : "Vancouver, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
