@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue, accepted to EC 19 <br>
+(with [Hu Fu](http://www.fuhuthu.com/) and Sikander Randhawa)
 1. [Tight analyses for non-smooth stochastic gradient descent](https://arxiv.org/abs/1812.05217) <br>
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Yaniv Plan](http://www.yanivplan.com/), Sikander Randhawa)
 1. A new dog learns old tricks: RL finds classic algorithms, ICLR 2019 <br>
