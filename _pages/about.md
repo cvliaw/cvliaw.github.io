@@ -22,3 +22,8 @@ Selected Publications
 (with [Peter L. Bartlett](https://www.stat.berkeley.edu/~bartlett/), [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/))
 * [A simple tool for bounding the deviation of random matrices on geometric sets](https://arxiv.org/abs/1603.00897), in Geometric Aspects of Functional Analysis<br>
 (with [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/), and [Roman Vershynin](https://www.math.uci.edu/~rvershyn/))
+
+
+
+<br><br>
+![](https://cvliaw.github.io/images/chris_frame.jpg)
