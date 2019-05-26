@@ -26,4 +26,6 @@ Selected Publications
 
 
 <br><br>
+<center>
 <img src="https://cvliaw.github.io/images/chris_frame.jpg" width=100>
+</center>
