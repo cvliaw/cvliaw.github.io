@@ -22,7 +22,7 @@ author_profile: true
 1. [Nearly-tight VC-dimension bounds for piecewise linear neural networks](https://arxiv.org/abs/1703.02930), COLT 2017<br>
 (with [Peter L. Bartlett](https://www.stat.berkeley.edu/~bartlett/), [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/))
 1. [Tight load balancing via randomized local search](https://arxiv.org/abs/1706.09997), IPDPS 2017 <br>
-(with [Peter Berenbrink](https://www.cs.sfu.ca/~petra/), [Peter Kling](https://academic.pkling.de/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/))
+(with [Petra Berenbrink](https://www.cs.sfu.ca/~petra/), [Peter Kling](https://academic.pkling.de/), [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/))
 1. [A simple tool for bounding the deviation of random matrices on geometric sets](https://arxiv.org/abs/1603.00897), in Geometric Aspects of Functional Analysis<br>
 (with [Abbas Mehrabian](https://www.cs.mcgill.ca/~amehra13/), [Yaniv Plan](http://www.yanivplan.com/), and [Roman Vershynin](https://www.math.uci.edu/~rvershyn/))
 1. [Rainbow Hamilton cycles and lopsidependency](https://www.cs.ubc.ca/~cvliaw/papers/LLLHamilton.pdf), Discrete Mathematics<br>
