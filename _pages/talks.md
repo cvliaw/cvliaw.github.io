@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **The Vickrey auction with a single duplicate bidder approximates the optimal revenue**
-* [EC 2019](http://www.sigecom.org/ec19/), Phoenix, Arizona, June 2019 \[[slides](https://cvliaw.github.io/files/ec_slides_web.pdf)]\]
+* [EC 2019](http://www.sigecom.org/ec19/), Phoenix, Arizona, June 2019 \[[slides](https://cvliaw.github.io/files/ec_slides_web.pdf)]]
 
 **Nearly-tight sample complexity bounds for learning mixtures of Gaussians**
 * [CAIMS Annual Meeting](https://caims.ca/annual-meetings-2/), Whistler, BC, June 2019
