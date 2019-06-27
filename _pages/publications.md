@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. [The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue](https://arxiv.org/abs/1905.03773), accepted to EC 2019 <br>
+1. [The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue](https://arxiv.org/abs/1905.03773), EC 2019 <br>
 (with [Hu Fu](http://www.fuhuthu.com/) and [Sikander Randhawa](https://sikander-randhawa.github.io/))
-1. [Tight analyses for non-smooth stochastic gradient descent](https://arxiv.org/abs/1812.05217), accepted to COLT 2019 <br>
+1. [Tight analyses for non-smooth stochastic gradient descent](https://arxiv.org/abs/1812.05217), COLT 2019 <br>
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Yaniv Plan](http://www.yanivplan.com/), [Sikander Randhawa](https://sikander-randhawa.github.io/))
 1. [A new dog learns old tricks: RL finds classic algorithms](https://openreview.net/pdf?id=rkluJ2R9KQ), ICLR 2019 <br>
 (with [William Kong](http://wwkong.github.io/), [Aranyak Mehta](https://ai.google/research/people/author31656), [D. Sivakumar](https://ai.google/research/people/DSivakumar))
