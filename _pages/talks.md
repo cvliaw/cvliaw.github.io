@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **The Vickrey auction with a single duplicate bidder approximates the optimal revenue**
+* UBC Algorithms Seminar, Vancouver, BC, Canada, November 2019
 * [EC 2019](http://www.sigecom.org/ec19/), Phoenix, Arizona, USA, June 2019 ([slides](https://cvliaw.github.io/files/slides/bk.pdf))
 
 **Nearly-tight sample complexity bounds for learning mixtures of Gaussians**
@@ -19,7 +20,7 @@ author_profile: true
 * Google Reading Group, Mountain View, California, USA, August 2018
 
 **The value of information concealment**
-* UBC Algorithms Seminar, Vancouver, Canada, January 2018
+* UBC Algorithms Seminar, Vancouver, BC, Canada, January 2018
 
 **Nearly-tight VC-dimension bounds for piecewise linear neural networks**
 * [COLT 2017](https://www.learningtheory.org/colt2017/), Amsterdam, July 2017
