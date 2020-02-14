@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Optimal anytime regret for two experts**
+* UBC Probability Seminar, Vancouver, BC, Canada, March 2020
+
 **The Vickrey auction with a single duplicate bidder approximates the optimal revenue**
 * UBC Algorithms Seminar, Vancouver, BC, Canada, November 2019
 * [EC 2019](http://www.sigecom.org/ec19/), Phoenix, Arizona, USA, June 2019 ([slides](https://cvliaw.github.io/files/slides/bk.pdf))
