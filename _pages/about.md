@@ -12,7 +12,8 @@ Hi! I am a PhD student at the [Department of Computer Science](https://www.cs.ub
 
 Selected Publications
 ------
-* [Optimal anytime regret with two experts](https://arxiv.org/abs/2002.08994)
+* [Optimal anytime regret with two experts](https://arxiv.org/abs/2002.08994) <br>
+(with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Ed Perkins](https://www.math.ubc.ca/~perkins/perkins.html), [Sikander Randhawa](https://sikander-randhawa.github.io/))
 * [The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue](https://arxiv.org/abs/1905.03773), EC 2019 <br>
 (with [Hu Fu](http://www.fuhuthu.com/) and [Sikander Randhawa](https://sikander-randhawa.github.io/))
 * [Nearly-tight sample complexity bounds for learning mixtures of Gaussians via compression schemes](https://arxiv.org/abs/1710.05209), **best paper at NeurIPS 2018**<br>
