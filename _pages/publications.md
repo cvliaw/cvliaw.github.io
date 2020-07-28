@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. [Optimal anytime regret with two experts](https://arxiv.org/abs/2002.08994) <br>
+1. [Optimal anytime regret with two experts](https://arxiv.org/abs/2002.08994), FOCS 2020 <br>
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Ed Perkins](https://www.math.ubc.ca/~perkins/perkins.html), [Sikander Randhawa](https://sikander-randhawa.github.io/))
 1. [The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue](https://arxiv.org/abs/1905.03773), EC 2019 <br>
 (with [Hu Fu](http://www.fuhuthu.com/) and [Sikander Randhawa](https://sikander-randhawa.github.io/))
