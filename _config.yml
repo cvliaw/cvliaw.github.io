@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Liaw's web page"
 title_separator          : "-"
 name                     : &name "Chris Liaw"
-description              : &description "PhD student at UBC CS"
+description              : &description "Postdoc at University of Toronto"
 url                      : https://cvliaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cvliaw.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chris Liaw"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at UBC CS <br> Email: cvliaw@cs.ubc.ca"
-  location         : "Vancouver, Canada"
+  bio              : "Postdoc at University of Toronto <br> Email: chris.liaw@utoronto.ca"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "cvliaw@cs.ubc.ca"
+  email            : "chris.liaw@utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
