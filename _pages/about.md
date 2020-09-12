@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student at the [Department of Computer Science](https://www.cs.ubc.ca/) at [UBC](https://www.ubc.ca/), where I am fortunate to be advised by [Nick Harvey](https://www.cs.ubc.ca/~nickhar/). I also enjoy working with [Hu Fu](http://www.fuhuthu.com/). I am broadly interested in randomized algorithms, machine learning theory, and mechanism design.
+Hi! I am a postdoc in the [theory group](https://www.cs.toronto.edu/theory/) at the [University of Toronto](https://www.utoronto.ca/). Previously, I was a PhD student at the [Department of Computer Science](https://www.cs.ubc.ca/) at [UBC](https://www.ubc.ca/), where I was fortunate to be advised by [Nick Harvey](https://www.cs.ubc.ca/~nickhar/). I am broadly interested in randomized algorithms, machine learning theory, and mechanism design.
 
 Selected Publications
 ------
