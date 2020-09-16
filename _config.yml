@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chris Liaw"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at University of Toronto <br> Email: chris.liaw@utoronto.ca"
+  bio              : "Postdoc at University of Toronto <br> Email: cvliaw@cs.toronto.edu"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "chris.liaw@utoronto.ca"
+  email            : "cvliaw@cs.toronto.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
