@@ -9,7 +9,7 @@ author_profile: true
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/) and [Tasuku Soma](https://www.opt.mist.i.u-tokyo.ac.jp/~tasuku/))
 1. [Optimal anytime regret with two experts](https://arxiv.org/abs/2002.08994), FOCS 2020 <br>
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Ed Perkins](https://www.math.ubc.ca/~perkins/perkins.html), [Sikander Randhawa](https://sikander-randhawa.github.io/))
-1. [The Vickrey Auction with a Single Duplicate Bidder Approximates the Optimal Revenue](https://arxiv.org/abs/1905.03773), EC 2019 <br>
+1. [The Vickrey Auction with a single duplicate bidder approximates the optimal revenue](https://arxiv.org/abs/1905.03773), EC 2019 <br>
 (with [Hu Fu](http://www.fuhuthu.com/) and [Sikander Randhawa](https://sikander-randhawa.github.io/))
 1. [Tight analyses for non-smooth stochastic gradient descent](https://arxiv.org/abs/1812.05217), COLT 2019 <br>
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/), [Yaniv Plan](http://www.yanivplan.com/), [Sikander Randhawa](https://sikander-randhawa.github.io/))
