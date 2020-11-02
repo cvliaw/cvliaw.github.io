@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Optimal anytime regret with two experts**
+* [FOCS 2020](https://focs2020.cs.duke.edu/), Virtual, November 2020
+* [Toronto Theory Seminar](http://www.cs.toronto.edu/theory/), Toronto, Canada, October 2020
+
 **The Vickrey auction with a single duplicate bidder approximates the optimal revenue**
 * UBC Algorithms Seminar, Vancouver, BC, Canada, November 2019
 * [EC 2019](http://www.sigecom.org/ec19/), Phoenix, Arizona, USA, June 2019 ([slides](https://cvliaw.github.io/files/slides/bk.pdf))
