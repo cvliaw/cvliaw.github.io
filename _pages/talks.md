@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Optimal anytime regret with two experts**
-* [FOCS 2020](https://focs2020.cs.duke.edu/), Virtual, November 2020
+* [FOCS 2020](https://focs2020.cs.duke.edu/), Virtual, November 2020 ([20 min. video](https://youtu.be/8IIlLjwHWtQ))
 * [Toronto Theory Seminar](http://www.cs.toronto.edu/theory/), Toronto, Canada, October 2020
 
 **The Vickrey auction with a single duplicate bidder approximates the optimal revenue**
