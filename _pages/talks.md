@@ -14,8 +14,8 @@ author_profile: true
 * [EC 2019](http://www.sigecom.org/ec19/), Phoenix, Arizona, USA, June 2019 ([slides](https://cvliaw.github.io/files/slides/bk.pdf))
 
 **Nearly-tight sample complexity bounds for learning mixtures of Gaussians**
-* [CMU AI Seminar](http://www.cs.cmu.edu/~aiseminar/), Pittsburgh, Pennsylvania, USA, November 2019
-* [CAIMS Annual Meeting](https://caims.ca/annual-meetings-2/), Whistler, BC, Canada, June 2019
+* [CMU AI Seminar](http://www.cs.cmu.edu/~aiseminar/19fall.html), Pittsburgh, Pennsylvania, USA, November 2019
+* [CAIMS Annual Meeting](https://caims.ca/annual-meeting-2019/), Whistler, BC, Canada, June 2019
 * [SFU Theory seminar](http://www.sfu.ca/~skoroth/cstheorysem/), Burnaby, BC, Canada, May 2019
 * [Bellairs Workshop on Discrete Optimization](http://bshepherd.ca/Some_Files/Bellairs%20Workshop%202019.html), Barbados, April 2019
 * [CMS Winter Meet](https://winter18.cms.math.ca/), Vancouver, BC, Canada, December 2018
