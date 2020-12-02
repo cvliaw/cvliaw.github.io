@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. Convergence Analysis of No-Regret Bidding Algorithms in Repeated Auctions, AAAI 2021 <br>
+(with [Zhe Feng](https://scholar.harvard.edu/zfeng/home), Guru Guruganesh, [Aranyak Mehta](https://ai.google/research/people/author31656), Abhishek Sethi)
 1. Improved Algorithms for Online Submodular Maximization via First-order Regret Bounds, NeurIPS 2020 <br>
 (with [Nick Harvey](https://www.cs.ubc.ca/~nickhar/) and [Tasuku Soma](https://www.opt.mist.i.u-tokyo.ac.jp/~tasuku/))
 1. [Optimal anytime regret with two experts](https://arxiv.org/abs/2002.08994), FOCS 2020 <br>
